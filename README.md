@@ -8,6 +8,10 @@ Lessons learned from a career in software development.
   - That is, if it could be a data problem or a code problem, suspect the data first. This can save you a **lot** of time.
 - Make sure the code you're running is the code you think you're running.
   - E.g. re-compile, re-install, clear caches as needed.
+  
+### Error Handling
+
+- Don't fail silently if you can avoid it.
 
 ### References
 
