@@ -13,6 +13,10 @@ Lessons learned from a career in software development.
 
 - Don't fail silently if you can avoid it.
 
+### Production Software
+
+- Don't run multiple versions in production. If you do, have a plan for when you come to regret it. 
+
 ### References
 
 - [Recurse Center Manual](https://www.recurse.com/manual): This guide has many great tips, especially on the social front. For example: *no feigning surprise*. 
