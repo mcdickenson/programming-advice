@@ -1,6 +1,10 @@
 # programming-advice
 Lessons learned from a career in software development.
 
+### Development
+- Don't overthink it. If you can think of a simple, brute-force approach and a more complex approach, try the simpler one first. Often it will be good enough. 
+
+
 ### Debugging
 
 - Read the error message. Every time.
