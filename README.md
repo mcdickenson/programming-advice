@@ -28,3 +28,4 @@ Lessons learned from a career in software development.
 ### References
 
 - [Recurse Center Manual](https://www.recurse.com/manual): This guide has many great tips, especially on the social front. For example: *no feigning surprise*. 
+- [Quotations for Learning and Programming](http://www.cs.cmu.edu/~pattis/quotations.html)
