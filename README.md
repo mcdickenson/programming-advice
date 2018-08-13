@@ -29,3 +29,4 @@ Lessons learned from a career in software development.
 
 - [Recurse Center Manual](https://www.recurse.com/manual): This guide has many great tips, especially on the social front. For example: *no feigning surprise*. 
 - [Quotations for Learning and Programming](http://www.cs.cmu.edu/~pattis/quotations.html)
+- [Ten Principles for Growth as an Engineer](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b)
